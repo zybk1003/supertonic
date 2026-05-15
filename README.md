@@ -75,7 +75,7 @@ wav, duration = tts.synthesize(
 )
 
 tts.save_audio(wav, "output.wav")
-print(f"Generated {duration:.2f}s of audio")
+print(f"Generated {duration[0]:.2f}s of audio")
 ```
 
 ## Getting Started
