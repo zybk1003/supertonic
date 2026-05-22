@@ -501,6 +501,22 @@ This paper describes the self-purification technique for training flow matching 
 }
 ```
 
+### RobustSpeechFlow: Learning Robust Text-to-Speech Trajectories via Augmentation-based Contrastive Flow Matching
+
+This paper describes the RobustSpeechFlow technique for improving the robustness and quality of text-to-speech generation by optimizing flow-matching trajectories against data variability
+
+```bibtex
+@misc{yang2026robustspeechflowlearningrobusttexttospeech,
+      title={RobustSpeechFlow: Learning Robust Text-to-Speech Trajectories via Augmentation-based Contrastive Flow Matching}, 
+      author={Jinhyeok Yang and Hyeongju Kim and Yechan Yu and Joon Byun and Frederik Bous and Juheon Lee},
+      year={2026},
+      eprint={2605.22083},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2605.22083}, 
+}
+```
+
 ## License
 
 This project's sample code is released under the MIT License. - see the [LICENSE](https://github.com/supertone-inc/supertonic?tab=MIT-1-ov-file) for details.
